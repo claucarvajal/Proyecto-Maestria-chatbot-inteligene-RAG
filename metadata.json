@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot RAG Propiedad Horizontal",
+  "description": "Sistema inteligente RAG con LangChain, embeddings y base de datos vectorial pgvector para la gestión y automatización de procesos en comunidades residenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
